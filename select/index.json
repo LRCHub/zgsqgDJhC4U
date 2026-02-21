@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "▷ LOVE GAME",
+  "base_artist": "▷ せーぶぽいんと",
+  "createdAt": "2026-02-21T11:55:15.223961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Eminem feat. Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/01_Love_Game_Eminem_feat._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Game (Chew Fu Ghettohouse Fix ft. Marilyn Manson)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/02_Love_Game_(Chew_Fu_Ghettohouse_Fix_ft._Marilyn_Manson)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Game (Space Cowboy Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/03_Love_Game_(Space_Cowboy_Remix)_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Game (Shakedown original mix)",
+      "artist": "Shakedown",
+      "has_synced": false,
+      "path": "select/04_Love_Game_(Shakedown_original_mix)_Shakedown.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/05_Love_Game_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/06_Love_Game_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Lady GaGa",
+      "has_synced": true,
+      "path": "select/07_Love_Game_Lady_GaGa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Game (Chew Fu Ghettohouse Fix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/08_Love_Game_(Chew_Fu_Ghettohouse_Fix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Game/Poker Face - Medley - Live at MMVA 09",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/09_Love_Game_Poker_Face_-_Medley_-_Live_at_MMVA_09_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ruby Love - Game Edit",
+      "artist": "Eve/巴 日和(CV.花江夏樹)、漣 ジュン(CV:内田雄馬)",
+      "has_synced": true,
+      "path": "select/10_Ruby_Love_-_Game_Edit_Eve_巴_日和(CV.花江夏樹)、漣_ジュン(CV_内田雄馬).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Love_Game_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Ragnhild",
+      "has_synced": false,
+      "path": "select/12_Love_Game_Ragnhild.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Timecop1983 feat. Josh Dally",
+      "has_synced": true,
+      "path": "select/13_Love_Game_Timecop1983_feat._Josh_Dally.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Game (feat. Josh Dally)",
+      "artist": "Timecop1983",
+      "has_synced": true,
+      "path": "select/14_Love_Game_(feat._Josh_Dally)_Timecop1983.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/15_Love_Game_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Game (feat. Kendrick Lamar)",
+      "artist": "Eminem feat. Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/16_Love_Game_(feat._Kendrick_Lamar)_Eminem_feat._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "▷ おんぱれ!",
+      "artist": "▷ せーぶぽいんと",
+      "has_synced": false,
+      "path": "select/pl_01_▷_おんぱれ!_▷_せーぶぽいんと.txt"
+    }
+  ]
+}
